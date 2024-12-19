@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: blue;
+}
+
+.header{
+    height: 60px;
+    background-color: darkblue;
+    padding: 20px 30px;
+    display: flex;
+    gap: 10px;
+}
+
+.blog{
+    border: 2px solid black;
+    background-color: cyan;
+    height: 100px;
+    width: 100vh;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+input{
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.desc{
+    width: 100vh;
+    height: 100px;
+}
+
+.btn{
+    border-radius: 6px;
+    height: 30px;
+    width: 60px;
+    background-color: lightblue;
+}
+
+.text{
+    background-color: cyan;
+}
+
+.input{
+    background-color: cyan;
+}
+
+.title{
+    color: cyan;
+}
+
+.blog1{
+    border: 2px solid black;
+    background-color: cyan;
+    height: 50px;
+    width: 50vh;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.text1{
+    color: black;
+    background-color: cyan;
+}
